@@ -4,7 +4,7 @@ Raspberry Pi Pico RP2040 basic examples in C/C++
 ## Clone repo to pico directory
 ```
 cd ~/pico
-git clone https://github.com/milnepe/pico-basics-c.git
+git clone https://github.com/LetsOKdo/pico-basics-c.git
 ```
 
 ## Load into VSCode
